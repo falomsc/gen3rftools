@@ -11,7 +11,7 @@ setuptools.setup(
     description='',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    url='https://github.com/falomsc/gen3rftools.git',
+    url='https://github.com/falomsc/gen3rftools',
     packages=setuptools.find_packages(),
     license='MIT',
     keywords='',
