@@ -5,7 +5,7 @@ with open("README.md", "r") as f:
 
 setuptools.setup(
     name='gen3rftools',
-    version='0.1',
+    version='0.2',
     author='falomsc',
     author_email='falomsc@gmail.com',
     description='',
